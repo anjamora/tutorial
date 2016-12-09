@@ -1,1 +1,1 @@
-In addition to essential algorithms, this repository contains snippets of code from various online coding tutorails and challenges.
+This repository contains snippets of code from various online coding tutorails and challenges.
